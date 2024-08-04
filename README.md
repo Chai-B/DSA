@@ -1,3 +1,3 @@
 # DSA
 
-This repo consists of my daily DSA question practise and concepts.
+This repo consists of my daily DSA question practice and concepts.
