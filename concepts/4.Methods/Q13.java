@@ -9,6 +9,8 @@ public class Q13 {
         System.out.printf("\nEnter upper bound of the interval: ");
         b = sc.nextInt();
         System.out.printf("\nPrime numbers between %d and %d are: ", a, b);
+        func();
+        public void func{
         for (i = a; i <= b; i++) {
             if (i == 1 || i == 0)
                 continue;
@@ -24,6 +26,7 @@ public class Q13 {
             // and flag = 0 means i is not prime
             if (count == 1)
                 System.out.println(i);
+        }
         }
     }
 }
